@@ -12,3 +12,4 @@ A script that changes the working directory to the previous one
 A script that list all files in the current working directory, it's parent directory and the boot directory in a long format
 A script that prints the type of file names iamafile
 A symbolic link that links to /bin/ls
+A script that copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory
