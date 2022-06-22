@@ -11,3 +11,4 @@ A script to delete my_first_directory in the /tmp/ directory
 A script that changes the working directory to the previous one
 A script that list all files in the current working directory, it's parent directory and the boot directory in a long format
 A script that prints the type of file names iamafile
+A symbolic link that links to /bin/ls
