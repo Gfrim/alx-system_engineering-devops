@@ -23,3 +23,4 @@ A script that lists all the files and directories of the current directory, sepa
 	Only digits and letters are used to sort; Digits should come first
 	You can assume that all the files we will test with will have at least one letter or one digit
 	The listing should end with a new line
+A magic file that can be used with the command file to detect School data files
