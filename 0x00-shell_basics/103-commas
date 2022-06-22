@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -vap --format=comma && echo -e "\n"
+ls -vap --format=comma -F && echo -e "\n"
