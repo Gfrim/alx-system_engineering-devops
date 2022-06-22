@@ -4,3 +4,4 @@ A script to change from the current working directory to the user's home directo
 A script to display the current directory contents in a long format
 A script to display the cureent working directory contents, including hidden files in a long format
 A script to display the current directory contents, in a long format, with user and group IDs displayed numerically and hidden files
+A script that creates a directory in the /tmp/ directory
