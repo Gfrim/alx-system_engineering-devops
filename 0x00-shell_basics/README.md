@@ -7,3 +7,4 @@ A script to display the current directory contents, in a long format, with user 
 A script that creates a directory in the /tmp/ directory
 A script to move the file betty in the tmp directory into my_first_directory directory in the /tmp/ directory
 A script to delete the file betty in the directory /tmp/my_first_directory/
+A script to delete my_first_directory in the /tmp/ directory
