@@ -1,4 +1,4 @@
-#ALX System Engineering Devops - Shell Permissions
+# ALX System Engineering Devops - Shell Permissions
 
 ## Task 0
 A script that switches the current user to the user betty
