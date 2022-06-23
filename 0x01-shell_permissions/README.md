@@ -44,3 +44,6 @@ A script that creates a directory called my_dir with permissions 751 in the work
 
 ## Task 13
 A script that changes the group owner to school for the file hello.
+
+## Task 14
+A script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
