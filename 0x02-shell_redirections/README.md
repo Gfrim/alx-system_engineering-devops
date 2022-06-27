@@ -18,3 +18,6 @@ A script to Display the last 10 lines of /etc/passwd.
 ## Task 5
 A script to display the first 10 lines of /etv/passwd.
 
+## Task 6
+A script that displays the thirdline of the file iacta
+
