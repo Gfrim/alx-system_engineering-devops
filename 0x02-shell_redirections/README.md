@@ -8,3 +8,6 @@ A script that displays a confused smiley "(Ôo)'.
 
 ## Task 2
 Display the content of the /etc/passwd file.
+
+## Task 3
+A script to Display the content of /etc/passwd and /etc/hosts.
