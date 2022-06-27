@@ -22,7 +22,7 @@ A script to display the first 10 lines of /etv/passwd.
 A script that displays the thirdline of the file iacta
 
 ## Task 7
-
+Write a shell script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
 
 ## Task 8
 A script that writes into the file ls_cwd_content the result of the command ls -la. If the file ls_cwd_content already exists, it should be overwritten. If the file ls_cwd_content does not exist, create it
