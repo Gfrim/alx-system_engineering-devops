@@ -14,3 +14,7 @@ A script to Display the content of /etc/passwd and /etc/hosts.
 
 ## Task 4
 A script to Display the last 10 lines of /etc/passwd.
+
+## Task 5
+A script to display the first 10 lines of /etv/passwd.
+
