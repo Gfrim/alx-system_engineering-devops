@@ -67,4 +67,7 @@ A script to Display all lines of the file /etc/ssh/sshd_config starting with a l
 A script to Replace all characters A and c from input to Z and e respectively.
 
 ## Task 20
+A script that removes all letters c and C from input.
+
+## Task 21
 
