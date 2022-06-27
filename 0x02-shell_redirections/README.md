@@ -58,3 +58,6 @@ A script to Display the number of lines that contain the pattern “bin” in th
 A script to Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
 
 ## Task 17
+A script to Display all the lines in the file /etc/passwd that do not contain the pattern “bin”.
+
+## Task 18
