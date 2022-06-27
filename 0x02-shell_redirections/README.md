@@ -21,3 +21,8 @@ A script to display the first 10 lines of /etv/passwd.
 ## Task 6
 A script that displays the thirdline of the file iacta
 
+## Task 7
+
+
+## Task 8
+A script that writes into the file ls_cwd_content the result of the command ls -la. If the file ls_cwd_content already exists, it should be overwritten. If the file ls_cwd_content does not exist, create it.
