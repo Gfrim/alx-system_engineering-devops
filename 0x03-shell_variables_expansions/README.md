@@ -59,4 +59,7 @@ A script that converts a number from base 10 to base 16.
 	The script should display the number in base 16, followed by a new line
 
 ## Task 15
+A script that encodes and decodes text using the rot13 encryption. Assume ASCII.
+
+## Task 16
 
