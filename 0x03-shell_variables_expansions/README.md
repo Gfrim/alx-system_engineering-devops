@@ -16,4 +16,7 @@ A script to Add /action to the PATH. /action should be the last directory the sh
 A script to print environmental variables
 
 ## Task 5
+A script that lists all local variables and environment variables, and functions.
+
+## Task 6
 
