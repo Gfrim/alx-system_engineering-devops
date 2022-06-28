@@ -1,2 +1,2 @@
 #!/bin/bash
-find -mindepth 1 -type d name '.*' | wc -l
+echo $PATH | tr ':' '\n' | wc -l
