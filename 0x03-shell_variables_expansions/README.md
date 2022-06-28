@@ -19,4 +19,7 @@ A script to print environmental variables
 A script that lists all local variables and environment variables, and functions.
 
 ## Task 6
+A script that creates a new local variable
+
+## Task 7
 
