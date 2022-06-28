@@ -22,4 +22,7 @@ A script that lists all local variables and environment variables, and functions
 A script that creates a new local variable
 
 ## Task 7
+A script that creates a new global variable
+
+## Task 8
 
