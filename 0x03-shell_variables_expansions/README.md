@@ -11,3 +11,9 @@ A script to Add /action to the PATH. /action should be the last directory the sh
 
 ## Task 3
 
+
+## Task 4
+A script to print environmental variables
+
+## Task 5
+
