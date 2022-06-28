@@ -4,4 +4,7 @@
 A script to create an alias with name ls performing rm *.
 
 ## Task 1
+A script to greet the current user.
+
+## Task 2
 
