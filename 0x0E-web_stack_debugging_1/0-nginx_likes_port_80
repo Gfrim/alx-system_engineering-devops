@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# debugging ngnix port 80
+# How I should solve it: delete the existing ../sites-enables/default and replace it will a copy of
+# ../sites-available/default. You do that by creating a symbolic link. 
+# NB: The flag -s creates a symbolic link, -f deletes the existing file and replaces it
+sudo ln -sf /etc/nginx/sites-available/default /etc/nginx/sites-enabled/default
+sudo service nginx restart
