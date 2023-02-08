@@ -7,9 +7,9 @@ import sys
 
 if __name__ == "__main__":
     user_id = sys.argv[1]
-    response = requests.get(f'https://jsonplaceholder.typicode.com
-        /users {user_id}').json()
-    tasks = requests.get(f'https://jsonplaceholder.typicode.com/to
+    response = requests.get('https://jsonplaceholder.typicode.com
+        /users/' + user_id).json()
+    tasks = requests.get('https://jsonplaceholder.typicode.com/to
         dos').json()
     user_name = response['name']
     completed_task = 0
