@@ -1,4 +1,8 @@
 #!/usr/bin/python3
+'''
+Python script to gather data from api
+'''
+
 import requests
 import sys
 
