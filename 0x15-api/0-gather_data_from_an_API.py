@@ -8,9 +8,9 @@ import sys
 if __name__ == "__main__":
     user_id = sys.argv[1]
     response = requests.get(f'https://jsonplaceholder.typicode.com
-                            /users {user_id}').json()
+        /users {user_id}').json()
     tasks = requests.get(f'https://jsonplaceholder.typicode.com/to
-                         dos').json()
+        dos').json()
     user_name = response['name']
     completed_task = 0
     total_task = 0
@@ -24,7 +24,7 @@ if __name__ == "__main__":
         total_task += 1
 
     print(f'Employee {user_name} is done with tasks({completed_task}
-          /{total_task}).')
+        /{total_task}).')
 
     #loop through titles
     for i in titles:
