@@ -12,7 +12,8 @@ if __name__ == '__main__':
         typicode.com/todos').json()
     username = response['username']
 
-    with open(f'{param}.csv', 'w') as file:
+    with open('{}.csv', 'w') as filename:
         for task in todo_response:
-            file.write(f'"{param}","{username}","{task.get
-                ('completed')}","{task.get('title)}"\n')
+            filename.write('"{}","{}","{}","{}"\n'
+                        .format(param, username, task.get('completed'),
+                                task.get('title')))
